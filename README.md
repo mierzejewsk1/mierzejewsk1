@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- ✨ Junior Software Engineer (UI) with 9 months of commercial experience creating frontend and backend for web
-  applications. Familiar with working in small, agile teams. Eager to learn new technologies and deepen knowledge
-  of those already used 💻
+✨ Junior Software Engineer (UI) with 9 months of commercial experience creating frontend and backend for web
+applications. Familiar with working in small, agile teams. Eager to learn new technologies and deepen knowledge
+of those already used 💻
 
 <br>
 
